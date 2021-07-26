@@ -35,6 +35,17 @@ web
         web
         
         web
+		desktop
+desktop
+desktop
+desktop
+desktop
+desktop
+desktop
+desktop
+desktop
+desktop
+desktop
     }
     
 }
