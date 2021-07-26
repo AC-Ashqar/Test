@@ -16,7 +16,7 @@ public class JavaApplication2 {
      */
     public static void main(String[] args) {ssssws
         // TODO code application logic here
-		soutsss
+
     }
     
 }
